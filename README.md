@@ -28,6 +28,19 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 
+
+## Herramientas y lenguajes:
+[![Java](https://img.shields.io/badge/Java-FFCA28?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-339933?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
+[![Selenium_Webdriver](https://img.shields.io/badge/Selenium_Webdriver-47A248?style=for-the-badge&logo=Selenium&logoColor=white&labelColor=101010)]()
+[![Playright](https://img.shields.io/badge/Playright-4479A1?style=for-the-badge&logo=Playright&logoColor=white&labelColor=101010)]()
+[![Jmeter](https://img.shields.io/badge/Jmeter-yellow?style=for-the-badge&logo=Jmeter&logoColor=white&labelColor=101010)]()
+[![Appium](https://img.shields.io/badge/Appium-007396?style=for-the-badge&logo=Appium&logoColor=white&labelColor=101010)]()
+[![Postman](https://img.shields.io/badge/Postman-F7DF1E?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
+[![Azure_Devops](https://img.shields.io/badge/Azure_Devops-4479A1?style=for-the-badge&Azure_Devops=mysql&logoColor=white&labelColor=101010)]()
+[![Jenkins](https://img.shields.io/badge/Jenkins-4479A1?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=101010)]()
+
+
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Carlos_Marin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-carlos-marin-campos)
