@@ -30,4 +30,4 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis-Carlos-Marin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-carlos-marin-campos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Carlos_Marin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luis-carlos-marin-campos)
