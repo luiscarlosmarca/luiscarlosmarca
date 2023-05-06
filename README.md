@@ -16,9 +16,13 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 [![Usabilidad](https://img.shields.io/badge/Usabilidad-7575F9?style=for-the-badge&logo=ninja&logoColor=white&labelColor=101010)]()
 
 ## Pruebas automatizadas:
-[![ApisTesting](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=apis&logoColor=white&labelColor=101010)]()
-[![Web](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=web&logoColor=white&labelColor=101010)]()
-[![Mobile](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=mobile&logoColor=white&labelColor=101010)]()
+[![ApisTesting](https://img.shields.io/badge/ApiTesting-yellow?style=for-the-badge&logo=cucmber&logoColor=white&labelColor=101010)]()
+[![Web](https://img.shields.io/badge/Web-007396?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)]()
+[![Mobile](https://img.shields.io/badge/Mobile-F7DF1E?style=for-the-badge&logo=appium&logoColor=white&labelColor=101010)]()
 
 
 ## Pruebas especializadas:
+[![Data_Migration](https://img.shields.io/badge/Data_Migration-FFCA28?style=for-the-badge&logo=database&logoColor=white&labelColor=101010)]()
+[![Performance](https://img.shields.io/badge/Performance-339933?style=for-the-badge&logo=jmeter&logoColor=white&labelColor=101010)]()
+[![Devops](https://img.shields.io/badge/Devops-47A248?style=for-the-badge&logo=devops&logoColor=white&labelColor=101010)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
