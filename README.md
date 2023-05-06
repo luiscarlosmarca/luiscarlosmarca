@@ -30,11 +30,15 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 
 
 ## Herramientas y lenguajes:
-[![Java](https://img.shields.io/badge/Java-FFCA28?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-FFCA28?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-339933?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
 [![Selenium_Webdriver](https://img.shields.io/badge/Selenium_Webdriver-47A248?style=for-the-badge&logo=Selenium&logoColor=white&labelColor=101010)]()
-[![Playright](https://img.shields.io/badge/Playright-4479A1?style=for-the-badge&logo=Playright&logoColor=white&labelColor=101010)]()
+[![playwright](https://img.shields.io/badge/playwright-4479A1?style=for-the-badge&logo=Playright&logoColor=white&labelColor=101010)]()
 [![Jmeter](https://img.shields.io/badge/Jmeter-yellow?style=for-the-badge&logo=Jmeter&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/git-999999?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Cucumber](https://img.shields.io/badge/Cucumber-FA7343?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=101010)]()
+[![Serenity_BDD](https://img.shields.io/badge/Serenity_BDD-1575F9?style=for-the-badge&logo=Serenity_BDD&logoColor=white&labelColor=101010)]()
+[![Kobiton](https://img.shields.io/badge/Kobiton-7575F9?style=for-the-badge&logo=Kobiton&logoColor=white&labelColor=101010)]()
 [![Appium](https://img.shields.io/badge/Appium-007396?style=for-the-badge&logo=Appium&logoColor=white&labelColor=101010)]()
 [![Postman](https://img.shields.io/badge/Postman-F7DF1E?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
 [![Azure_Devops](https://img.shields.io/badge/Azure_Devops-4479A1?style=for-the-badge&Azure_Devops=mysql&logoColor=white&labelColor=101010)]()
