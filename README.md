@@ -1,4 +1,4 @@
-# ![https://qaxpert.com](https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/icon.png)Hola, mi nombre es Luis Carlos Marin Campos 👋
+# ![https://qaxpert.com](https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/iconNinjaG.png)Hola, mi nombre es Luis Carlos Marin Campos 👋
 
 **luiscarlosmarca/luiscarlosmarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
