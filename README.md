@@ -10,7 +10,7 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 ¡Gracias por visitar mi perfil!
 
 ## Tipo de pruebas:
-[![Regresion Testing](https://img.shields.io/badge/RegresionTesting-999999?style=for-the-badge&logo=test&logoColor=white&labelColor=101010)]()
+[![Regresion Testing](https://img.shields.io/badge/RegresionTesting-999999?style=for-the-badge&logo=bugzilla&logoColor=white&labelColor=101010)]()
 [![Testing Integration](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Performance Testing](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 
