@@ -11,9 +11,9 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 
 ## Tipo de pruebas:
 [![Regresión](https://img.shields.io/badge/Regresión-999999?style=for-the-badge&logo=bugzilla&logoColor=white&labelColor=101010)]()
-[![Integración](https://img.shields.io/badge/Integración-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Aceptación](https://img.shields.io/badge/Aceptación-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-[![ApisTesting](https://img.shields.io/badge/Aceptación-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+[![Integración](https://img.shields.io/badge/Integración-FA7343?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=101010)]()
+[![Aceptación](https://img.shields.io/badge/Aceptación-1575F9?style=for-the-badge&logo=bug&logoColor=white&labelColor=101010)]()
+[![ApisTesting](https://img.shields.io/badge/Aceptación-7575F9?style=for-the-badge&logo=ninja&logoColor=white&labelColor=101010)]()
 
 ## Pruebas automatizadas:
 
