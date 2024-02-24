@@ -30,7 +30,7 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 
 
 ## Herramientas y lenguajes:
-![Static Badge](https://img.shields.io/badge/Automatizacion-RobotFramework?style=plastic&logo=Python&logoColor=black&label=Robot%20Framework&labelColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/Automatizacion-RobotFramework?style=for-the-badge&logo=Python&logoColor=black&label=Robot%20Framework&labelColor=white&color=green)
 [![Java](https://img.shields.io/badge/Java-FFCA28?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-339933?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
 [![Selenium_Webdriver](https://img.shields.io/badge/Selenium_Webdriver-47A248?style=for-the-badge&logo=Selenium&logoColor=white&labelColor=101010)]()
