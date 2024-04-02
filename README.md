@@ -1,13 +1,67 @@
 # ![https://qaxpert.com](https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/n.png)Hola, mi nombre es Luis Carlos Marin Campos 👋
 ### QA Automation Engineer Lead 
 
-![https://github.com/luiscarlosmarca](https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/banner.png)
-
 Soy un apasionado de la calidad del código. Esta pasión por hacer código de calidad me llevó a convertirme en un tester entusiasta y feliz de hacer lo que hago. Me motiva mitigar los riesgos de errores en producción y hacer un mundo cada vez más libre de bugs, con más usuarios felices al interactuar con los softwares que garantizo su calidad.
 
 Me encanta automatizar pruebas y buscar soluciones para probar correctamente sistemas complejos. Me gusta programar y aprender cada vez más lenguajes. Siempre estoy en busca de nuevos desafíos y oportunidades para mejorar mis habilidades técnicas y de liderazgo.
 
 ¡Gracias por visitar mi perfil!
+
+## Algunos vídeos en YouTube:
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/Kp4Mvapo5kc">
+<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/-pWSQYpkkjk">
+<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/3GymExBkKjE">
+<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/SavaU66KxQY">
+<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/GoAxsdg0Xbs">
+<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/pFyAu4R684s">
+<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/BQaxPwZWboA">
+<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/Wfh0FYR0z6I">
+<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/ebQphhLpJG0">
+<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+</table>
 
 ## Tipo de pruebas:
 [![Regresión](https://img.shields.io/badge/Regresión-999999?style=for-the-badge&logo=bugzilla&logoColor=white&labelColor=101010)]()
