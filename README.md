@@ -12,52 +12,52 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=ZmSwBl_oQss" target="black">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%201.png">
+<a href="https://www.youtube.com/watch?v=ZmSwBl_oQss" target="blank">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/selenium1.png">
 </a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=_3d3cNqVITo" target="black">
+<a href="https://www.youtube.com/watch?v=_3d3cNqVITo" target="blank">
 <img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%202.png">
 </a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=8RJVnt3twP8" target="black">
+<a href="https://www.youtube.com/watch?v=8RJVnt3twP8" target="blank">
 <img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%203.png">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=jdDLAAuGaW0" target="blank">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img.png">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/GoAxsdg0Xbs">
-<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=CkMPbdrgXqE&t=4s" target="blank">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/odimg1.png">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=5n_NC4tlvJI&t=99s" target="blank">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/odimg2.png">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://youtu.be/BQaxPwZWboA">
-<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=5n_NC4tlvJI&t=99s" target="blank">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/odimg2.png">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/Wfh0FYR0z6I">
-<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=kj7izgZzesE&t=3s">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/1.png">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/ebQphhLpJG0">
-<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=4PySwwCprLk">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%201.png">
 </a>
 </td>
 </tr>
