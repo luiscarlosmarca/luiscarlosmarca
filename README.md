@@ -12,18 +12,18 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=ZmSwBl_oQss">
+<a href="https://www.youtube.com/watch?v=ZmSwBl_oQss" target="black">
 <img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%201.png">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/-pWSQYpkkjk">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=_3d3cNqVITo" target="black">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%202.png">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=8RJVnt3twP8" target="black">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%203.png">
 </a>
 </td>
 </tr>
