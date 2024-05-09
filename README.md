@@ -1,5 +1,5 @@
 # ![https://qaxpert.com](https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/n.png)Hola, mi nombre es Luis Carlos Marin Campos 👋
-### QA Automation Coach
+### Testing Coach
 
 Soy un apasionado de la calidad del código. Esta pasión por hacer código de calidad me llevó a convertirme en un tester entusiasta y feliz de hacer lo que hago. Me motiva mitigar los riesgos de errores en producción y hacer un mundo cada vez más libre de bugs, con más usuarios felices al interactuar con los softwares que garantizo su calidad.
 
