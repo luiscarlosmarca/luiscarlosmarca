@@ -1,9 +1,14 @@
 # ![https://qaxpert.com](https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/n.png)Hola, mi nombre es Luis Carlos Marin Campos 👋
-### Testing Coach
+### Mentor QAX
 
-Soy un apasionado de la calidad del código. Esta pasión por hacer código de calidad me llevó a convertirme en un tester entusiasta y feliz de hacer lo que hago. Me motiva mitigar los riesgos de errores en producción y hacer un mundo cada vez más libre de bugs, con más usuarios felices al interactuar con los softwares que garantizo su calidad.
+Soy un apasionado por la calidad del software y el código bien hecho.
+Esa pasión me llevó a convertirme en tester y, hoy, en mentor, disfrutando cada paso del proceso.
 
-Me encanta automatizar pruebas y buscar soluciones para probar correctamente sistemas complejos. Me gusta programar y aprender cada vez más lenguajes. Siempre estoy en busca de nuevos desafíos y oportunidades para mejorar mis habilidades técnicas y de liderazgo.
+Me motiva ayudar a reducir riesgos en producción, construir soluciones más confiables y aportar a que más usuarios tengan experiencias positivas con los productos que usan.
+
+Disfruto automatizar pruebas, enfrentar sistemas complejos y encontrar la mejor forma de probarlos de manera eficiente. Programar, aprender nuevas herramientas y compartir ese conocimiento es parte esencial de lo que hago.
+
+En QAXpert acompaño a otros testers a desarrollar criterio técnico, confianza profesional y una ruta clara para crecer en automatización y en su carrera.
 
 ¡Gracias por visitar mi perfil!
 
