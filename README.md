@@ -12,8 +12,13 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=ZmSwBl_oQss" target="blank">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/selenium1.png">
+<a href="https://www.youtube.com/watch?v=t1bRRrA--44" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/t1bRRrA--44/hqdefault.jpg"
+    alt="Video QAXpert"
+    width="480"
+  >
+</a>
 </a>
 </td>
 <td>
