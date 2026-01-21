@@ -14,7 +14,7 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 <td>
 <a href="https://www.youtube.com/watch?v=t1bRRrA--44" target="_blank">
   <img 
-    src="https://img.youtube.com/vi/t1bRRrA--44/hqdefault.jpg"
+    src="https://img.youtube.com/vi/t1bRRrA--44/maxresdefault.jpg"
     alt="Video QAXpert"
     width="480"
   >
@@ -22,47 +22,82 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 </a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=3PPi_hn_3gI" target="blank">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%202.png">
+<a href="https://www.youtube.com/watch?v=4L5i0j72M7I" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/4L5i0j72M7I/hqdefault.jpg"
+    alt="Workshop QAXpert - Automatización de Pruebas"
+    width="480"
+  >
+</a>
 </a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=8RJVnt3twP8" target="blank">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%203.png">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://www.youtube.com/watch?v=jdDLAAuGaW0" target="blank">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img.png">
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=CkMPbdrgXqE&t=4s" target="blank">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/odimg1.png">
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=5n_NC4tlvJI&t=99s" target="blank">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/odimg2.png">
+[<a href="https://www.youtube.com/watch?v=8RJVnt3twP8" target="blank">
+<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%203.png">](https://www.youtube.com/watch?v=hj2S_MQnewA&list=PLfHq1ecEdJP7Z3QaQNnUUKnlhGBPveVBE)
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=5n_NC4tlvJI&t=99s" target="blank">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/odimg2.png">
+<a href="https://www.youtube.com/watch?v=hj2S_MQnewA" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/hj2S_MQnewA/maxresdefault.jpg"
+    alt="Workshop QAXpert - Tu punto de partida en Automatización"
+    width="480"
+  >
+</a>
 </a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=kj7izgZzesE&t=3s">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/1.png">
+<a href="https://www.youtube.com/watch?v=VLc3eLKbuUU" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/VLc3eLKbuUU/maxresdefault.jpg"
+    alt="Workshop QAXpert - Tu punto de partida en Automatización"
+    width="480"
+  >
+</a>
 </a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=4PySwwCprLk">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%201.png">
+<a href="https://www.youtube.com/watch?v=mT9I-RSb678" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/mT9I-RSb678/hqdefault.jpg"
+    alt="Workshop QAXpert - Punto de partida en Automatización"
+    width="480"
+  >
+</a>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.youtube.com/watch?v=5IZmKdIWAG8" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/5IZmKdIWAG8/maxresdefault.jpg"
+    alt="Mentoría 1:1 QAXpert - Automatización de Pruebas"
+    width="480"
+  >
+</a>
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=5IZmKdIWAG8" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/5IZmKdIWAG8/hqdefault.jpg"
+    alt="Mentoría QAXpert - Punto de partida en Automatización"
+    width="480"
+  >
+</a>
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=_-o8sYG7I1c" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/_-o8sYG7I1c/hqdefault.jpg"
+    alt="Mentoría QAXpert - Automatización desde cero"
+    width="480"
+  >
+</a>
 </a>
 </td>
 </tr>
