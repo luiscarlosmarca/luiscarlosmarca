@@ -7,100 +7,52 @@ Me encanta automatizar pruebas y buscar soluciones para probar correctamente sis
 
 ¡Gracias por visitar mi perfil!
 
-## Algunos vídeos en YouTube:
+<h2>Algunos videos en YouTube</h2>
 
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://www.youtube.com/watch?v=t1bRRrA--44" target="_blank">
-  <img 
-    src="https://img.youtube.com/vi/t1bRRrA--44/maxresdefault.jpg"
-    alt="Video QAXpert"
-    width="480"
-  >
-</a>
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=4L5i0j72M7I" target="_blank">
-  <img 
-    src="https://img.youtube.com/vi/4L5i0j72M7I/hqdefault.jpg"
-    alt="Workshop QAXpert - Automatización de Pruebas"
-    width="480"
-  >
-</a>
-</a>
-</td>
-<td>
-[<a href="https://www.youtube.com/watch?v=8RJVnt3twP8" target="blank">
-<img src="https://github.com/luiscarlosmarca/luiscarlosmarca/blob/main/img/img%203.png">](https://www.youtube.com/watch?v=hj2S_MQnewA&list=PLfHq1ecEdJP7Z3QaQNnUUKnlhGBPveVBE)
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://www.youtube.com/watch?v=hj2S_MQnewA" target="_blank">
-  <img 
-    src="https://img.youtube.com/vi/hj2S_MQnewA/maxresdefault.jpg"
-    alt="Workshop QAXpert - Tu punto de partida en Automatización"
-    width="480"
-  >
-</a>
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=VLc3eLKbuUU" target="_blank">
-  <img 
-    src="https://img.youtube.com/vi/VLc3eLKbuUU/maxresdefault.jpg"
-    alt="Workshop QAXpert - Tu punto de partida en Automatización"
-    width="480"
-  >
-</a>
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=mT9I-RSb678" target="_blank">
-  <img 
-    src="https://img.youtube.com/vi/mT9I-RSb678/hqdefault.jpg"
-    alt="Workshop QAXpert - Punto de partida en Automatización"
-    width="480"
-  >
-</a>
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://www.youtube.com/watch?v=5IZmKdIWAG8" target="_blank">
-  <img 
-    src="https://img.youtube.com/vi/5IZmKdIWAG8/maxresdefault.jpg"
-    alt="Mentoría 1:1 QAXpert - Automatización de Pruebas"
-    width="480"
-  >
-</a>
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=5IZmKdIWAG8" target="_blank">
-  <img 
-    src="https://img.youtube.com/vi/5IZmKdIWAG8/hqdefault.jpg"
-    alt="Mentoría QAXpert - Punto de partida en Automatización"
-    width="480"
-  >
-</a>
-</a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=_-o8sYG7I1c" target="_blank">
-  <img 
-    src="https://img.youtube.com/vi/_-o8sYG7I1c/hqdefault.jpg"
-    alt="Mentoría QAXpert - Automatización desde cero"
-    width="480"
-  >
-</a>
-</a>
-</td>
-</tr>
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=t1bRRrA--44" target="_blank">
+        <img src="https://img.youtube.com/vi/t1bRRrA--44/maxresdefault.jpg" alt="Video QAXpert" width="320">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=4L5i0j72M7I" target="_blank">
+        <img src="https://img.youtube.com/vi/4L5i0j72M7I/hqdefault.jpg" alt="Workshop QAXpert - Automatización de Pruebas" width="320">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=hj2S_MQnewA" target="_blank">
+        <img src="https://img.youtube.com/vi/hj2S_MQnewA/maxresdefault.jpg" alt="Mentoría QAXpert - Automatización Web" width="320">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=VLc3eLKbuUU" target="_blank">
+        <img src="https://img.youtube.com/vi/VLc3eLKbuUU/maxresdefault.jpg" alt="Workshop QAXpert - Punto de partida en Automatización" width="320">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=mT9I-RSb678" target="_blank">
+        <img src="https://img.youtube.com/vi/mT9I-RSb678/hqdefault.jpg" alt="Mentoría 1:1 QAXpert" width="320">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=5IZmKdIWAG8" target="_blank">
+        <img src="https://img.youtube.com/vi/5IZmKdIWAG8/maxresdefault.jpg" alt="Mentoría QAXpert - Automatización de Pruebas" width="320">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=_-o8sYG7I1c" target="_blank">
+        <img src="https://img.youtube.com/vi/_-o8sYG7I1c/hqdefault.jpg" alt="Mentoría QAXpert - Automatización desde cero" width="320">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Tipo de pruebas:
